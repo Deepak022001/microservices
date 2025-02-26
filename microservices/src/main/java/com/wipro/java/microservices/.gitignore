@@ -1,0 +1,9 @@
+target/
+bin/
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+.DS_Store
